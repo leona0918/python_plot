@@ -1,0 +1,4 @@
+####Requriements without version specifiers####
+numpy
+pandas
+
