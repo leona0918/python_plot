@@ -1,2 +1,20 @@
+# Ingore python virtual environment /python
 .venv/
+*.egg
+*.egg-info
+*.pickle
+*.pyc
+*.pytest_cache
+*ipynb_checkpoints/
+
+#vscode
+.vscode
+/.settings/
+# Ingore file on masOS
 .DS_Store
+ 
+# Ignore bazel build dir
+bazel-*
+
+
+
